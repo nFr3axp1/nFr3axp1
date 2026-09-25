@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://skillicons.dev/icons?i=cpp,git" />
 <!--
 **nFr3axp1/nFr3axp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
